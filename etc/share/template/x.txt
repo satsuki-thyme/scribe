@@ -1,0 +1,7 @@
+小説を更新しました！
+
+$op $title
+$description
+
+$subtitle
+$link_url
