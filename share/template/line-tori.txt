@@ -1,5 +1,0 @@
-$title | $subtitle
-#とり #ファンタジー #$op
-$description
-
-$text_follow_option
