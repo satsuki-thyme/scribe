@@ -96,21 +96,6 @@
          transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
     </marker>
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker5545"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Lend"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path5543" />
-    </marker>
-    <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
        refY="0"
@@ -229,22 +214,6 @@
          style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.079375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     </clipPath>
     <marker
-       inkscape:stockid="Arrow2Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker4143-2"
-       style="overflow:visible"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4141-1"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
-    </marker>
-    <marker
        inkscape:stockid="DotL"
        orient="auto"
        refY="0"
@@ -268,8 +237,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8101934"
-     inkscape:cx="336.42815"
-     inkscape:cy="204.67427"
+     inkscape:cx="356.31552"
+     inkscape:cy="206.88397"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -312,50 +281,44 @@
        height="280"
        x="56.691383"
        y="60.149517"
-       inkscape:export-filename="..\..\..\Desktop\world.png"
+       inkscape:export-filename="world.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 112.29786,236.05182 c 27.45181,9.14622 47.24445,35.04874 47.24445,65.57407 0,38.16418 -30.93818,69.10235 -69.102359,69.10235 -38.164175,0 -69.102354,-30.93817 -69.102356,-69.10235 -2e-6,-34.43055 25.180872,-62.97979 58.131146,-68.23625"
-       id="circle819" />
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.079375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect5705"
-       width="7.0158248"
-       height="8.4774551"
-       x="156.63927"
-       y="296.20529" />
+       style="opacity:1;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 90.439951,370.72824 c -38.164175,0 -69.102354,-30.93817 -69.102356,-69.10235 -2e-6,-34.43055 25.180872,-62.97979 58.131146,-68.23625"
+       id="path4" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       style="opacity:1;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 112.29786,236.05182 c 18.9681,6.31967 34.27952,20.63923 41.93164,38.95605"
+       id="circle819" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        d="M 314.14453,301.62589 A 223.70457,223.70457 0 0 1 90.439951,525.33046 223.70457,223.70457 0 0 1 -133.26462,301.62589 223.70457,223.70457 0 0 1 90.439951,77.92131 223.70457,223.70457 0 0 1 314.14453,301.62589 Z"
        id="path815" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 127.84006,184.65179 c 42.19514,13.47974 74.47107,49.15774 83.09399,93.30017"
+       style="opacity:1;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 127.84006,184.65179 c 38.14138,12.18472 68.1779,42.50732 79.96597,80.82419"
        id="path864" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:1.85208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.70417, 3.70417;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 210.93405,277.95196 c 1.4964,7.66033 2.28048,15.57556 2.28048,23.67393 0,5.71317 -0.39023,11.3352 -1.14549,16.84088"
-       id="path862" />
-    <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 212.06904,318.46677 c -8.20853,59.8383 -59.53573,105.9337 -121.629089,105.9337 -67.806529,0 -122.774576,-54.96805 -122.774582,-122.77458 -5e-6,-61.36802 45.024765,-112.21994 103.842377,-121.32383"
-       id="path852" />
-    <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:1.85208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.70417, 3.70417;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       style="opacity:1;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 71.507746,180.30206 c 6.170934,-0.95515 12.493692,-1.45076 18.932205,-1.45076 13.041549,0 25.608169,2.03341 37.400109,5.80049"
        id="circle817" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 79.468741,233.38964 c 3.57311,-0.57001 7.23758,-0.86611 10.97121,-0.86611 7.638847,0 14.988199,1.23948 21.857909,3.52829"
-       id="path844" />
+       style="opacity:1;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 80.396475,233.16991 c 3.57311,-0.57001 6.309846,-0.64638 10.043476,-0.64638 7.638847,0 14.115399,0.85496 20.985109,3.14377"
+       id="path844"
+       sodipodi:nodetypes="csc" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       d="m 267.20923,325.49827 c -11.66629,87.21421 -86.36231,154.48072 -176.769279,154.48072 -98.501698,0 -178.353101,-79.8514 -178.353101,-178.3531 0,-98.5017 79.8514,-178.35311 178.353101,-178.35311 86.744609,0 159.025389,61.92701 175.044329,143.98301"
+       style="opacity:1;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 168.68827,141.30928 c 49.38329,24.14855 85.96057,70.44266 96.79601,125.94651"
+       id="path2" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 267.20923,325.49827 C 255.54294,412.71248 180.84692,479.97899 90.439951,479.97899"
        id="path848" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       style="opacity:1;fill:none;fill-opacity:0.988235;fill-rule:nonzero;stroke:#0a0000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        d="m 265.48428,267.25579 c 2.17116,11.12162 3.30877,22.61301 3.30877,34.3701 0,8.09473 -0.53926,16.06351 -1.58382,23.87238"
        id="circle821" />
     <circle
@@ -367,47 +330,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="92.889885"
-       y="160.25298"
-       id="text882"><tspan
-         sodipodi:role="line"
-         id="tspan880"
-         x="92.889885"
-         y="160.25298"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">世界Aのパラレルワールド</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="82.676651"
+       x="67.692062"
        y="207.11682"
        id="text888"><tspan
          sodipodi:role="line"
-         x="82.676651"
+         x="67.692062"
          y="207.11682"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
-         id="tspan890">世界A</tspan></text>
-    <text
-       id="text896"
-       y="301.99405"
-       x="127.28572"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
-         y="301.99405"
-         x="127.28572"
-         id="tspan894"
-         sodipodi:role="line">世界Bのパラレルワールド</tspan></text>
+         id="tspan890">世界事象A</tspan></text>
     <text
        id="text900"
        y="301.99402"
-       x="236.52083"
+       x="226.36998"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          id="tspan898"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
          y="301.99402"
-         x="236.52083"
-         sodipodi:role="line">世界B</tspan></text>
+         x="226.36998"
+         sodipodi:role="line">世界事象B</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -464,14 +405,14 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
          id="tspan3593">投影関数B</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-       d="M 97.469889,208.30615 H 80.003255 l 9.715169,22.63428"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 67.359039,208.65142 30.598099,-0.0345 -8.238714,22.63428"
        id="path3605"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#DotL)"
-       d="M 88.314161,197.35075 H 117.14961 L 96.866609,248.92382"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#DotL)"
+       d="M 87.209307,197.35075 H 117.14961 L 96.866609,248.92382"
        id="path4063"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
@@ -487,12 +428,6 @@
        id="path4289"
        d="m 269.97594,190.68297 h -24.55539 l -6.68696,10.41411"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4293)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4143-2)"
-       d="M 158.188,162.1463 H 89.810993 l 4.681855,15.37505"
-       id="path4133-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5018"
@@ -505,21 +440,17 @@
            y="971.15466" /></flowRegion><flowPara
          id="flowPara5024" /></flowRoot>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#DotL-5)"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#DotL-5);stroke-dasharray:none"
        d="m 254.61188,259.16437 h -28.83544 l 13.71372,24.26506"
        id="path4063-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5473)"
-       d="m 236.29812,303.80577 h 17.3934 l 13.15467,-12.71619"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5473)"
+       d="m 225.62937,303.80577 28.06215,0 13.60352,-13.23409"
        id="path5463"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker5545)"
-       d="m 126.71875,303.28742 h 68.6263 l 16.12305,-13.43586"
-       id="path5535"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
     <text
        id="text5615"
        y="100.62173"
@@ -537,19 +468,19 @@
        id="path5621"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7345)"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7345)"
        d="M 90.439955,301.62588 129.17539,244.83906"
        id="path7335" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7421)"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7421)"
        d="m 129.17539,244.83906 c 0,0 20.16549,-29.56297 30.24824,-44.34446"
        id="path7537" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7421)"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7421)"
        d="m 159.42363,200.4946 c 10.43588,-15.29918 20.87177,-30.59837 31.30765,-45.89756"
        id="path7535" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7421)"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7421)"
        d="m 190.73128,154.59704 c 8.34158,-12.2289 16.68316,-24.45781 25.02475,-36.68672"
        id="path7533" />
     <path
@@ -557,7 +488,7 @@
        inkscape:connector-curvature="0"
        id="path6105"
        d="m 179.65712,252.17216 h -24.55539 l -6.68696,10.41411"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6109)" />
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker6109);stroke-dasharray:none" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -589,25 +520,24 @@
          y="312.12372"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">実像点</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 90.439951,301.62588 176.748499,23.8704"
        id="path830"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 90.439951,301.62588 265.37089,266.85529"
        id="path832"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 90.439951,301.62588 72.320096,180.19579"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 90.439951,301.62588 80.232706,233.2221"
        id="path834"
-       inkscape:connector-curvature="0" />
+       sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 90.439951,301.62588 128.13989,184.78277"
-       id="path836"
-       inkscape:connector-curvature="0" />
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 90.439951,301.62588 21.244369,-65.8425"
+       id="path836" />
     <g
        id="g2949"
        transform="matrix(0.24869533,0,0,0.24869032,395.31315,238.86699)"
@@ -1534,7 +1464,7 @@
            inkscape:connector-curvature="0"
            id="path3324"
            d="M 457.02374,34.082813 H 704.22016"
-           style="fill:none;stroke:#000000;stroke-width:0.319169;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;stroke:#000000;stroke-width:0.31766095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            id="path3326"
@@ -2152,5 +2082,16 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="222.7372"
+       y="84.38562"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="222.7372"
+         y="84.38562"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583">無存界</tspan></text>
   </g>
 </svg>
