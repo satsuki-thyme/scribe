@@ -12,5 +12,6 @@
 - etc/world.svg:                 世界概念図
 
 ## 配布先
+- etc/plot-connection-types.png => Notion
 - etc/world.png => op65/refecence/
 - etc/world.svg => op65/refecence/
