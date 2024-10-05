@@ -1,9 +1,9 @@
 # 筆記
 ## 目録
-- etc/[c]battle.yml:             戦闘描写
-- etc/[c]galdur.md:              魔法
-- etc/[c]novel.md:               小説について
-- etc/[c]settings.md:            共通設定
+- etc/battle.yml:                戦闘描写
+- etc/galdur.md:                 魔法
+- etc/novel.md:                  小説について
+- etc/settings.md:               共通設定
 - etc/140字小説.txt:             140字小説
 - etc/desire.md:                 何が書きたいか、何がやりたいか
 - etc/plot-connection-types.png: プロットのつながりの型
