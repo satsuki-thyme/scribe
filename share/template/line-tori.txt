@@ -1,5 +1,5 @@
 $title | $subtitle
-#とり #ファンタジー #$op
+#とり #ファンタジー #$op $text_length文字
 $description
 
 $text_follow_option
