@@ -4,7 +4,6 @@
 - etc/galdur.md:                 魔法
 - etc/novel.md:                  小説について
 - etc/settings.md:               共通設定
-- etc/140字小説.txt:             140字小説
 - etc/desire.md:                 何が書きたいか、何がやりたいか
 - etc/plot-connection-types.png: プロットのつながりの型
 - etc/plot-connection-types.svg: プロットのつながりの型
