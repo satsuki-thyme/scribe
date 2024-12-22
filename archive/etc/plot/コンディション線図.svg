@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1200"
+   height="1200"
+   viewBox="0 0 1200 1200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="コンディション線図.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker3437"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path3435" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3047" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path3065" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3041" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3308"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3306" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3038" />
+    </marker>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3860">
+      <g
+         id="g3890"
+         style="stroke:#ffffff;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 346.21484,396.9043 51.96153,-30"
+           id="path3862" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 356.21484,396.9043 51.96153,-30"
+           id="path3864" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 366.21484,396.9043 51.96153,-30"
+           id="path3866" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 376.21484,396.9043 51.96153,-30"
+           id="path3868" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 386.21484,396.9043 51.96153,-30"
+           id="path3870" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 396.21484,396.9043 51.96153,-30"
+           id="path3872" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 406.21484,396.9043 51.96153,-30"
+           id="path3874" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 416.21484,396.9043 51.96153,-30"
+           id="path3876" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 426.21484,396.9043 51.96153,-30"
+           id="path3878" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 436.21484,396.9043 51.96153,-30"
+           id="path3880" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 336.21484,396.9043 51.96153,-30"
+           id="path3882" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 326.21484,396.9043 51.96153,-30"
+           id="path3884" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 316.21484,396.9043 51.96153,-30"
+           id="path3886" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 306.21484,396.9043 51.96153,-30"
+           id="path3888" />
+      </g>
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3860-3">
+      <g
+         id="g3890-7"
+         style="stroke:#ffffff;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 346.21484,396.9043 51.96153,-30"
+           id="path3862-5" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 356.21484,396.9043 51.96153,-30"
+           id="path3864-2" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 366.21484,396.9043 51.96153,-30"
+           id="path3866-1" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 376.21484,396.9043 51.96153,-30"
+           id="path3868-9" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 386.21484,396.9043 51.96153,-30"
+           id="path3870-5" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 396.21484,396.9043 51.96153,-30"
+           id="path3872-5" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 406.21484,396.9043 51.96153,-30"
+           id="path3874-9" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 416.21484,396.9043 51.96153,-30"
+           id="path3876-9" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 426.21484,396.9043 51.96153,-30"
+           id="path3878-4" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 436.21484,396.9043 51.96153,-30"
+           id="path3880-3" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 336.21484,396.9043 51.96153,-30"
+           id="path3882-2" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 326.21484,396.9043 51.96153,-30"
+           id="path3884-9" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 316.21484,396.9043 51.96153,-30"
+           id="path3886-6" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 306.21484,396.9043 51.96153,-30"
+           id="path3888-3" />
+      </g>
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4604">
+      <g
+         id="g4654"
+         transform="translate(-322.44069,98.994949)"
+         style="fill:none;stroke:#ffffff;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 476.87827,395.95972 594.31134,328.1597"
+           id="path4606" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 486.87827,395.95972 604.31134,328.1597"
+           id="path4608" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 496.87827,395.95972 614.31134,328.1597"
+           id="path4610" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 506.87827,395.95972 624.31134,328.1597"
+           id="path4612" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 516.87827,395.95972 634.31134,328.1597"
+           id="path4614" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 526.87827,395.95972 644.31134,328.1597"
+           id="path4616" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 536.87827,395.95972 654.31134,328.1597"
+           id="path4618" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 546.87827,395.95972 664.31134,328.1597"
+           id="path4620" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 556.87827,395.95972 674.31134,328.1597"
+           id="path4622" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 566.87827,395.95972 684.31134,328.1597"
+           id="path4624" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 576.87827,395.95972 694.31134,328.1597"
+           id="path4626" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 586.87827,395.95972 704.31134,328.1597"
+           id="path4628" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 596.87827,395.95972 714.31134,328.1597"
+           id="path4630" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 466.87827,395.95972 584.31134,328.1597"
+           id="path4632" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 456.87827,395.95972 574.31134,328.1597"
+           id="path4634" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 446.87827,395.95972 564.31134,328.1597"
+           id="path4636" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 436.87827,395.95972 554.31134,328.1597"
+           id="path4638" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 426.87827,395.95972 544.31134,328.1597"
+           id="path4640" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 416.87827,395.95972 534.31134,328.1597"
+           id="path4642" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 406.87827,395.95972 524.31134,328.1597"
+           id="path4644" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 396.87827,395.95972 514.31134,328.1597"
+           id="path4646" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 386.87827,395.95972 504.31134,328.1597"
+           id="path4648" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 376.87827,395.95972 494.31134,328.1597"
+           id="path4650" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 366.87827,395.95972 484.31134,328.1597"
+           id="path4652" />
+      </g>
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask979">
+      <g
+         id="g1029"
+         transform="translate(124.9052,-202.05971)"
+         style="fill:none;stroke:#ffffff;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 476.87827,395.95972 594.31134,328.1597"
+           id="path981" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 486.87827,395.95972 604.31134,328.1597"
+           id="path983" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 496.87827,395.95972 614.31134,328.1597"
+           id="path985" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 506.87827,395.95972 624.31134,328.1597"
+           id="path987" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 516.87827,395.95972 634.31134,328.1597"
+           id="path989" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 526.87827,395.95972 644.31134,328.1597"
+           id="path991" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 536.87827,395.95972 654.31134,328.1597"
+           id="path993" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 546.87827,395.95972 664.31134,328.1597"
+           id="path995" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 556.87827,395.95972 674.31134,328.1597"
+           id="path997" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 566.87827,395.95972 684.31134,328.1597"
+           id="path999" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 576.87827,395.95972 694.31134,328.1597"
+           id="path1001" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 586.87827,395.95972 704.31134,328.1597"
+           id="path1003" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 596.87827,395.95972 714.31134,328.1597"
+           id="path1005" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 466.87827,395.95972 584.31134,328.1597"
+           id="path1007" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 456.87827,395.95972 574.31134,328.1597"
+           id="path1009" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 446.87827,395.95972 564.31134,328.1597"
+           id="path1011" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 436.87827,395.95972 554.31134,328.1597"
+           id="path1013" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 426.87827,395.95972 544.31134,328.1597"
+           id="path1015" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 416.87827,395.95972 534.31134,328.1597"
+           id="path1017" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 406.87827,395.95972 524.31134,328.1597"
+           id="path1019" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 396.87827,395.95972 514.31134,328.1597"
+           id="path1021" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 386.87827,395.95972 504.31134,328.1597"
+           id="path1023" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 376.87827,395.95972 494.31134,328.1597"
+           id="path1025" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 366.87827,395.95972 484.31134,328.1597"
+           id="path1027" />
+      </g>
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="590.43416"
+     inkscape:cy="376.88791"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:0.999">
+    <g
+       id="g965"
+       transform="translate(319.7857,-222.15495)">
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 145.7143,257.15495 v 160"
+         id="path953" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 505.7143,257.15495 v 160"
+         id="path955" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 146.2143,337.15495 h 360"
+         id="path957" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 235.7143,257.15495 v 160"
+         id="path959" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.999993px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="M 325.7143,272.15495 V 417.15496"
+         id="path961" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 415.7143,257.15495 v 160"
+         id="path963" />
+    </g>
+    <rect
+       style="fill:#fa921f;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4006"
+       width="100"
+       height="56.5"
+       x="168.15411"
+       y="432.80466"
+       mask="url(#mask4604)"
+       transform="translate(-453.28571,-198.08915)" />
+    <g
+       id="g1526"
+       transform="translate(-130.2143,-222.15495)">
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 145.7143,257.15495 v 160"
+         id="path1399" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 505.7143,257.15495 v 160"
+         id="path1401" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 146.2143,337.15495 h 360"
+         id="path1403" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 235.7143,257.15495 v 160"
+         id="path1405" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.999993px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="M 325.7143,272.15495 V 417.15496"
+         id="path1407" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 415.7143,257.15495 v 160"
+         id="path1409" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="60.411987"
+       y="33.91"
+       id="text1413"><tspan
+         sodipodi:role="line"
+         id="tspan1411"
+         x="60.411987"
+         y="33.91">パート1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="150.91199"
+       y="33.91"
+       id="text1419"><tspan
+         sodipodi:role="line"
+         id="tspan1417"
+         x="150.91199"
+         y="33.91">パート2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="239.99449"
+       y="33.91"
+       id="text1423"><tspan
+         sodipodi:role="line"
+         id="tspan1421"
+         x="239.99449"
+         y="33.91">パート3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="329.8515"
+       y="33.91"
+       id="text1427"><tspan
+         sodipodi:role="line"
+         id="tspan1425"
+         x="329.8515"
+         y="33.91">パート4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="195.48799"
+       y="47.792"
+       id="text1431"><tspan
+         sodipodi:role="line"
+         id="tspan1429"
+         x="195.48799"
+         y="47.792">ミッドポイント</tspan></text>
+    <path
+       style="fill:none;stroke:#fa921f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.5,115 h 90 V 84.5 h 89.99974 l 5.3e-4,61 h 90 l -5.4e-4,-91 H 375.5"
+       id="path1465"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:none;stroke:#fa921f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 465.5,84.5 h 90 v 61 h 89.99973 l 5.4e-4,-61 h 90 l -5.4e-4,61 H 745.5 v -91 h 80"
+       id="path3930"
+       sodipodi:nodetypes="cccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="510.41199"
+       y="33.91"
+       id="text969"><tspan
+         sodipodi:role="line"
+         id="tspan967"
+         x="510.41199"
+         y="33.91">パート1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="600.91199"
+       y="33.91"
+       id="text973"><tspan
+         sodipodi:role="line"
+         id="tspan971"
+         x="600.91199"
+         y="33.91">パート2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="689.99451"
+       y="33.91"
+       id="text977"><tspan
+         sodipodi:role="line"
+         id="tspan975"
+         x="689.99451"
+         y="33.91">パート3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="779.8515"
+       y="33.91"
+       id="text981"><tspan
+         sodipodi:role="line"
+         id="tspan979"
+         x="779.8515"
+         y="33.91">パート4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="645.48798"
+       y="47.792"
+       id="text985"><tspan
+         sodipodi:role="line"
+         id="tspan983"
+         x="645.48798"
+         y="47.792">ミッドポイント</tspan></text>
+    <g
+       id="g1098"
+       transform="translate(-130.2143,-22.15495)">
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 145.7143,257.15495 v 160"
+         id="path1086" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 505.7143,257.15495 v 160"
+         id="path1088" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 146.2143,337.15495 h 360"
+         id="path1090" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 235.7143,257.15495 v 160"
+         id="path1092" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.999993px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="M 325.7143,272.15495 V 417.15496"
+         id="path1094" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 415.7143,257.15495 v 160"
+         id="path1096" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="60.411987"
+       y="233.91"
+       id="text1102"><tspan
+         sodipodi:role="line"
+         id="tspan1100"
+         x="60.411987"
+         y="233.91">パート1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="150.91199"
+       y="233.91"
+       id="text1106"><tspan
+         sodipodi:role="line"
+         id="tspan1104"
+         x="150.91199"
+         y="233.91">パート2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="239.99449"
+       y="233.91"
+       id="text1110"><tspan
+         sodipodi:role="line"
+         id="tspan1108"
+         x="239.99449"
+         y="233.91">パート3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="329.8515"
+       y="233.91"
+       id="text1114"><tspan
+         sodipodi:role="line"
+         id="tspan1112"
+         x="329.8515"
+         y="233.91">パート4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="195.48799"
+       y="247.79199"
+       id="text1118"><tspan
+         sodipodi:role="line"
+         id="tspan1116"
+         x="195.48799"
+         y="247.79199">ミッドポイント</tspan></text>
+    <path
+       style="fill:none;stroke:#fa921f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 15.5,315 h 90 v -30.5 h 89.99974 l 5.3e-4,-29.5 h 90 l -5.4e-4,120 H 375.5 v -27"
+       id="path1120"
+       sodipodi:nodetypes="cccccccc" />
+    <rect
+       style="fill:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1315"
+       width="360"
+       height="30"
+       x="399.54163"
+       y="668.13098" />
+    <g
+       id="g1835"
+       transform="translate(319.7857,-22.15495)">
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 145.7143,257.15495 v 160"
+         id="path1823" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 505.7143,257.15495 v 160"
+         id="path1825" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 146.2143,337.15495 h 360"
+         id="path1827" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 235.7143,257.15495 v 160"
+         id="path1829" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.999993px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="M 325.7143,272.15495 V 417.15496"
+         id="path1831" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 415.7143,257.15495 v 160"
+         id="path1833" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="510.41199"
+       y="233.91"
+       id="text1839"><tspan
+         sodipodi:role="line"
+         id="tspan1837"
+         x="510.41199"
+         y="233.91">パート1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="600.91199"
+       y="233.91"
+       id="text1843"><tspan
+         sodipodi:role="line"
+         id="tspan1841"
+         x="600.91199"
+         y="233.91">パート2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="689.99451"
+       y="233.91"
+       id="text1847"><tspan
+         sodipodi:role="line"
+         id="tspan1845"
+         x="689.99451"
+         y="233.91">パート3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="779.8515"
+       y="233.91"
+       id="text1851"><tspan
+         sodipodi:role="line"
+         id="tspan1849"
+         x="779.8515"
+         y="233.91">パート4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="645.48798"
+       y="247.79199"
+       id="text1855"><tspan
+         sodipodi:role="line"
+         id="tspan1853"
+         x="645.48798"
+         y="247.79199">ミッドポイント</tspan></text>
+    <path
+       style="fill:none;stroke:#fa921f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3437)"
+       d="M 465.5,341.5 V 315 h 90 v -30.5 h 89.99974 l 5.3e-4,60.5 h 90 L 735.5,255 h 90.00027"
+       id="path1857"
+       sodipodi:nodetypes="ccccccccc" />
+    <rect
+       style="fill:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2649"
+       width="37.5"
+       height="162.41779"
+       x="493.74429"
+       y="646.42743" />
+    <g
+       id="g4242"
+       transform="translate(319.7857,177.84505)">
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 145.7143,257.15495 v 160"
+         id="path4230" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 505.7143,257.15495 v 160"
+         id="path4232" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 146.2143,337.15495 h 360"
+         id="path4234" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 235.7143,257.15495 v 160"
+         id="path4236" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.999993px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="M 325.7143,272.15495 V 417.15496"
+         id="path4238" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 415.7143,257.15495 v 160"
+         id="path4240" />
+    </g>
+    <g
+       id="g4256"
+       transform="translate(-130.2143,177.84505)">
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 145.7143,257.15495 v 160"
+         id="path4244" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 505.7143,257.15495 v 160"
+         id="path4246" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 146.2143,337.15495 h 360"
+         id="path4248" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 235.7143,257.15495 v 160"
+         id="path4250" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.999993px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="M 325.7143,272.15495 V 417.15496"
+         id="path4252" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 415.7143,257.15495 v 160"
+         id="path4254" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="60.411987"
+       y="433.91"
+       id="text4260"><tspan
+         sodipodi:role="line"
+         id="tspan4258"
+         x="60.411987"
+         y="433.91">パート1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="150.91199"
+       y="433.91"
+       id="text4264"><tspan
+         sodipodi:role="line"
+         id="tspan4262"
+         x="150.91199"
+         y="433.91">パート2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="239.99449"
+       y="433.91"
+       id="text4268"><tspan
+         sodipodi:role="line"
+         id="tspan4266"
+         x="239.99449"
+         y="433.91">パート3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="329.8515"
+       y="433.91"
+       id="text4272"><tspan
+         sodipodi:role="line"
+         id="tspan4270"
+         x="329.8515"
+         y="433.91">パート4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="195.48799"
+       y="447.79199"
+       id="text4276"><tspan
+         sodipodi:role="line"
+         id="tspan4274"
+         x="195.48799"
+         y="447.79199">ミッドポイント</tspan></text>
+    <path
+       style="fill:none;stroke:#fa921f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.5,515 h 90 v -30.5 h 89.99974 l 5.3e-4,61 h 90 l -5.4e-4,-91 h 75.12472 l 10e-6,121 H 375.5"
+       id="path4278"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="fill:none;stroke:#fa921f;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 465.5,575.5 h 12.00418 l 0,-60.5 H 556 l -0.5,-30 h 89.99973 l 5.4e-4,60 h 90 L 735.5,454.5 h 90"
+       id="path4280"
+       sodipodi:nodetypes="cccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="510.41199"
+       y="433.91"
+       id="text4284"><tspan
+         sodipodi:role="line"
+         id="tspan4282"
+         x="510.41199"
+         y="433.91">パート1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="600.91199"
+       y="433.91"
+       id="text4288"><tspan
+         sodipodi:role="line"
+         id="tspan4286"
+         x="600.91199"
+         y="433.91">パート2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="689.99451"
+       y="433.91"
+       id="text4292"><tspan
+         sodipodi:role="line"
+         id="tspan4290"
+         x="689.99451"
+         y="433.91">パート3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="779.8515"
+       y="433.91"
+       id="text4296"><tspan
+         sodipodi:role="line"
+         id="tspan4294"
+         x="779.8515"
+         y="433.91">パート4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:'Noto Sans Mono CJK JP';-inkscape-font-specification:'Noto Sans Mono CJK JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="645.48798"
+       y="447.79199"
+       id="text4300"><tspan
+         sodipodi:role="line"
+         id="tspan4298"
+         x="645.48798"
+         y="447.79199">ミッドポイント</tspan></text>
+  </g>
+</svg>
