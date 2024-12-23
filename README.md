@@ -5,6 +5,8 @@
 - etc/novel.md:                    小説について
 - etc/settings.md:                 共通設定
 - etc/desire.md:                   何が書きたいか、何がやりたいか
+- etc/dimension.png:               世界概念図
+- etc/dimension.svg:               世界概念図
 - etc/plot-connection-types.png:   プロットのつながりの型
 - etc/plot-connection-types.svg:   プロットのつながりの型
 - etc/scene-connecting-scenes.png: シーン同士をつなげるシーン

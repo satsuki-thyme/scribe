@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="600"
+   viewBox="0 0 800 600"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="dimension.svg"
+   inkscape:export-filename="dimension.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#808080"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="329.2466"
+     inkscape:cy="359.07766"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2"
+       x="-0.12288"
+       y="-0.12288"
+       width="1.24576"
+       height="1.24576">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="15.36"
+         id="feGaussianBlur2" />
+    </filter>
+    <marker
+       style="overflow:visible"
+       id="Dot"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Dot"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 5,0 C 5,2.76 2.76,5 0,5 -2.76,5 -5,2.76 -5,0 c 0,-2.76 2.3,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         sodipodi:nodetypes="sssss"
+         id="path17" />
+    </marker>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1"
+       x="-0.061783613"
+       y="-0.061783613"
+       width="1.1235672"
+       height="1.1235672">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.1174945"
+         id="feGaussianBlur1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7"
+       x="-0.11488804"
+       y="-0.13655442"
+       width="1.2297761"
+       height="1.2585794">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2051246"
+         id="feGaussianBlur7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8"
+       x="-0.11488804"
+       y="-0.13655442"
+       width="1.2297761"
+       height="1.2585794">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2051246"
+         id="feGaussianBlur8" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath68">
+      <path
+         d="M 0,1920 H 1920 V 0 H 0 Z"
+         id="path68" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath70">
+      <path
+         d="M 0,1920 H 1920 V 0 H 0 Z"
+         id="path70" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath72">
+      <path
+         d="M 0,1920 H 1920 V 0 H 0 Z"
+         id="path72" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath74">
+      <path
+         d="M 0,1920 H 1920 V 0 H 0 Z"
+         transform="translate(-1650.957,-250.30373)"
+         id="path74" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter35"
+       x="-0.38093498"
+       y="-0.11995991"
+       width="1.76187"
+       height="1.2399198">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.2089362"
+         id="feGaussianBlur35" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath45">
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.700001;stroke-linecap:round"
+         id="rect45"
+         width="800"
+         height="371.50885"
+         x="-418.90704"
+         y="-212.80727" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath46">
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.700001;stroke-linecap:round"
+         id="rect47"
+         width="800"
+         height="371.50885"
+         x="-418.90701"
+         y="-212.80727" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     transform="translate(433.69064,242.41386)">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.700001;stroke-linecap:round"
+       id="rect1"
+       width="800"
+       height="600"
+       x="-433.69064"
+       y="-242.41386" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="paint"
+     transform="translate(433.69064,242.41386)" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(433.69064,242.41386)">
+    <circle
+       style="fill:#a9ffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.550817;stroke-linecap:round;filter:url(#filter2)"
+       id="circle46"
+       cx="165.51933"
+       cy="-14.669196"
+       r="150"
+       transform="matrix(1,0,0,1.6150356,-14.783622,101.27743)"
+       clip-path="url(#clipPath46)" />
+    <circle
+       style="fill:#ffffda;fill-opacity:1;fill-rule:evenodd;stroke-width:0.550817;stroke-linecap:round;filter:url(#filter2)"
+       id="circle44"
+       cx="-203.33334"
+       cy="-14.669196"
+       r="150"
+       transform="matrix(1,0,0,1.6150356,-14.783626,101.27743)"
+       clip-path="url(#clipPath45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:10px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;text-anchor:start;fill:#000000;fill-rule:evenodd;stroke-width:0.7;stroke-linecap:round"
+       x="-267.61697"
+       y="-200.29335"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="-267.61697"
+         y="-200.29335"
+         style="letter-spacing:0px">この次元</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:24px;line-height:10px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;text-anchor:start;fill:#000000;fill-rule:evenodd;stroke-width:0.7;stroke-linecap:round"
+       x="90.867706"
+       y="-200.29335"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="90.867706"
+         y="-200.29335"
+         style="letter-spacing:0px">魔素の次元</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:24px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;text-anchor:start;white-space:pre;inline-size:0;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.7;stroke-linecap:round"
+       x="847.65308"
+       y="207.47993"
+       id="text3"
+       transform="translate(-556.35302,-284.24941)"><tspan
+         id="tspan3"
+         x="847.65308"
+         y="207.47993"
+         style="line-height:24px;letter-spacing:0px"
+         dy="0">魔素</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot)"
+       d="m 236.92287,-41.975919 38.01523,-27.065605 h 55.6798"
+       id="path4"
+       sodipodi:nodetypes="ccc" />
+    <g
+       id="g25"
+       transform="translate(-61.617365,-66.291261)">
+      <rect
+         style="fill:#feff95;fill-opacity:1;fill-rule:evenodd;stroke:#e1a400;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6"
+         width="59"
+         height="59"
+         x="-111.75037"
+         y="-65.73085" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:23.3333px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-1px;text-anchor:start;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+         x="-112.43047"
+         y="-72.654358"
+         id="text9"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           x="-112.43047"
+           y="-72.654358">物質</tspan></text>
+      <circle
+         style="fill:#feff95;fill-opacity:1;fill-rule:evenodd;stroke:#e1a400;stroke-width:0.999998;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         id="circle6"
+         cx="-82.250366"
+         cy="79.863846"
+         r="29.5" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:23.3333px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-1px;text-anchor:start;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+         x="-112.61714"
+         y="43.673668"
+         id="text10"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           x="-112.61714"
+           y="43.673668">事象</tspan></text>
+      <g
+         id="g3"
+         transform="translate(4.408484,6.2485529)">
+        <path
+           sodipodi:type="star"
+           style="fill:#feff95;fill-opacity:1;fill-rule:evenodd;stroke:#e1a400;stroke-width:1.23532;stroke-opacity:1;filter:url(#filter1)"
+           id="path1"
+           inkscape:flatsided="false"
+           sodipodi:sides="12"
+           sodipodi:cx="-88.28125"
+           sodipodi:cy="210.9375"
+           sodipodi:r1="42.14183"
+           sodipodi:r2="14.934981"
+           sodipodi:arg1="-1.6242999"
+           sodipodi:arg2="-1.3625005"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m -90.534913,168.85597 5.342111,27.46937 16.000586,-22.95834 -9.108281,26.46022 25.336087,-11.88221 -21.118116,18.36109 27.882803,2.37774 -27.469369,5.34211 22.958344,16.00058 -26.460226,-9.10828 11.882217,25.33609 -18.361088,-21.11812 -2.377742,27.88281 -5.342111,-27.46937 -16.000582,22.95834 9.108277,-26.46022 -25.336087,11.88221 21.11812,-18.36109 -27.88281,-2.37774 27.46937,-5.34211 -22.95834,-16.00058 26.460224,9.10828 -11.882214,-25.33609 18.361085,21.11812 z"
+           transform="matrix(0.8095084,0,0,0.80949491,-15.194436,10.556498)" />
+        <path
+           sodipodi:type="star"
+           style="fill:#feff95;fill-opacity:1;fill-rule:evenodd;stroke:#e1a400;stroke-width:1.23532;stroke-opacity:1;filter:url(#filter1)"
+           id="path3"
+           inkscape:flatsided="false"
+           sodipodi:sides="12"
+           sodipodi:cx="-88.28125"
+           sodipodi:cy="210.9375"
+           sodipodi:r1="42.14183"
+           sodipodi:r2="14.934981"
+           sodipodi:arg1="-1.6242999"
+           sodipodi:arg2="-1.3625005"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m -90.534913,168.85597 5.342111,27.46937 16.000586,-22.95834 -9.108281,26.46022 25.336087,-11.88221 -21.118116,18.36109 27.882803,2.37774 -27.469369,5.34211 22.958344,16.00058 -26.460226,-9.10828 11.882217,25.33609 -18.361088,-21.11812 -2.377742,27.88281 -5.342111,-27.46937 -16.000582,22.95834 9.108277,-26.46022 -25.336087,11.88221 21.11812,-18.36109 -27.88281,-2.37774 27.46937,-5.34211 -22.95834,-16.00058 26.460224,9.10828 -11.882214,-25.33609 18.361085,21.11812 z"
+           transform="matrix(0.78192507,-0.2095127,0.20951619,0.78191205,-61.824349,-2.1212824)" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:23.3333px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-1px;text-anchor:start;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+         x="-112.44916"
+         y="151.19037"
+         id="text11"><tspan
+           sodipodi:role="line"
+           id="tspan11"
+           x="-112.44916"
+           y="151.19037">精神</tspan></text>
+      <g
+         id="g8"
+         transform="translate(6.8121338,17.5351)">
+        <path
+           sodipodi:type="star"
+           style="fill:#feff95;fill-opacity:1;fill-rule:evenodd;stroke:#e1a400;stroke-opacity:1;filter:url(#filter7)"
+           id="path6"
+           inkscape:flatsided="false"
+           sodipodi:sides="3"
+           sodipodi:cx="-89.0625"
+           sodipodi:cy="289.84375"
+           sodipodi:r1="32.8218"
+           sodipodi:r2="11.631981"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:arg2="-0.52359878"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m -89.062499,257.02195 10.07359,27.00581 18.350921,22.22689 -28.424512,-4.77892 -28.42451,4.77892 18.350919,-22.22689 z"
+           inkscape:transform-center-y="-8.2054498" />
+        <path
+           sodipodi:type="star"
+           style="fill:#feff95;fill-opacity:1;fill-rule:evenodd;stroke:#e1a400;stroke-opacity:1;filter:url(#filter8)"
+           id="path7"
+           inkscape:flatsided="false"
+           sodipodi:sides="3"
+           sodipodi:cx="-89.0625"
+           sodipodi:cy="289.84375"
+           sodipodi:r1="32.8218"
+           sodipodi:r2="11.631981"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:arg2="-0.52359878"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m -89.062499,257.02195 10.07359,27.00581 18.350921,22.22689 -28.424512,-4.77892 -28.42451,4.77892 18.350919,-22.22689 z"
+           inkscape:transform-center-y="8.2054496"
+           transform="rotate(180,-89.0625,289.84375)" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:23.3333px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-1px;text-anchor:start;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+         x="-112.43047"
+         y="271.01135"
+         id="text12"><tspan
+           sodipodi:role="line"
+           id="tspan12"
+           x="-112.43047"
+           y="271.01135">魔導具</tspan></text>
+    </g>
+    <rect
+       style="fill:#91feff;fill-opacity:1;fill-rule:evenodd;stroke:#00dff2;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="59"
+       height="59"
+       x="35.419147"
+       y="-132.02211" />
+    <circle
+       style="fill:#91feff;fill-opacity:1;fill-rule:evenodd;stroke:#00dff2;stroke-width:0.999998;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path5"
+       cx="64.919144"
+       cy="13.572585"
+       r="29.5" />
+    <path
+       id="path1-0"
+       style="fill:#91feff;fill-opacity:1;stroke:#00dff2;stroke-width:0.999998"
+       d="m 80.965275,90.279209 c -2.20528,-0.18347 -4.07073,2.97294 -5.77735,4.27148 -2.38596,2.40146 -4.00267,5.43688 -6.08789,8.095711 -1.59749,1.56222 -3.31186,3.83717 -5.83789,3.82617 -2.54688,-0.76153 -2.5865,-3.56616 -3.5293,-5.48438 -1.07823,-2.431221 -3.57313,-4.375471 -6.30859,-4.558591 -2.77777,1.37459 1.12099,2.96716 0.8457,4.847661 0.96834,2.80027 2.36307,5.38164 2.60157,8.3164 0.35413,2.18884 0.27965,4.50904 -0.006,6.77344 0.21237,2.97901 -1.59101,5.59951 -2.96875,8.1875 -1.80257,2.57176 -3.67669,5.09374 -5.59375,7.61523 -1.77825,2.64573 -3.33612,5.50889 -5.35157,7.9629 -1.58529,1.91333 -3.26864,3.90461 -4.970705,5.56836 -1.36348,1.24003 -2.578629,2.59946 -3.779299,4.00781 a 40.158455,40.158455 0 0 0 13.958994,10.41406 c 1.78981,-3.01982 3.99822,-5.7596 5.65625,-8.88086 2.89855,-5.21158 6.62914,-9.85605 9.29297,-15.20312 1.6619,-2.59054 3.19832,-5.24911 5.35937,-7.45118 1.87343,-1.48779 4.33844,-1.74246 6.17969,-3.24023 1.81122,-1.27109 3.19149,-3.32133 5.16797,-4.50977 2.16279,-1.10448 4.46103,-1.25552 6.75,-1.63671 2.85546,-1.14789 7.98359,0.0729 8.69922,-4 -2.01883,-2.23291 -5.13001,0.17959 -7.70508,-0.375 -2.00037,-0.17958 -5.05051,1.30251 -6.28906,-0.54688 1.94309,-1.70423 5.00064,-2.3764 7.24804,-3.80664 2.18353,-1.85693 5.76884,-2.06515 7.27149,-4.61719 0.17139,-4.44425 -4.71639,-1.14878 -6.9043,-0.45703 -3.02752,1.078 -5.93145,3.30696 -9.10937,3.31836 1.36624,-1.9256 4.38777,-3.21518 6.34765,-4.96875 1.46327,-1.11848 2.99047,-2.25709 4.55078,-3.28125 3.12255,-0.670221 2.24906,-5.815031 -1.20703,-4.279301 -2.11221,1.63953 -4.83591,2.64343 -6.89062,4.322271 -2.5897,0.82798 -3.77771,3.37377 -6.44336,3.98047 -2.54973,-1.26301 1.94153,-4.792051 2.58984,-6.671881 1.42915,-1.99512 4.28005,-4.2505 3.82422,-6.81445 -0.54739,-0.46187 -1.07508,-0.68227 -1.58398,-0.72461 z" />
+    <g
+       id="g9"
+       transform="translate(-178.04059,-57.015806)">
+      <path
+         id="path67"
+         d="m 1471.478,733.175 h 214.843 v 53.396 h -214.843 z"
+         style="fill:#91feff;fill-opacity:1;fill-rule:nonzero;stroke:#00dff2;stroke-width:12.1629"
+         transform="matrix(-0.10962334,0,0,0.10962334,416.42324,241.27056)"
+         clip-path="url(#clipPath68)" />
+      <path
+         id="path69"
+         d="m 1471.426,665.78 h 214.842 v 53.396 h -214.842 z"
+         style="fill:#91feff;fill-opacity:1;fill-rule:nonzero;stroke:#00dff2;stroke-width:12.1629"
+         transform="matrix(-0.10962334,0,0,0.10962334,416.42324,241.27056)"
+         clip-path="url(#clipPath70)" />
+      <path
+         id="path71"
+         d="m 1471.478,597.109 h 214.843 v 53.396 h -214.843 z"
+         style="fill:#91feff;fill-opacity:1;fill-rule:nonzero;stroke:#00dff2;stroke-width:12.1629"
+         transform="matrix(-0.10962334,0,0,0.10962334,416.42324,241.27056)"
+         clip-path="url(#clipPath72)" />
+      <path
+         id="path73"
+         d="M 0,0 C -6.476,-0.002 -13.037,1.649 -19.047,5.118 -37.3,15.656 -43.556,38.999 -33.016,57.252 l 61.051,105.74 -50.033,86.658 h -100.065 l -61.049,-105.741 c -10.54,-18.252 -33.884,-24.503 -52.134,-13.968 -18.255,10.538 -24.509,33.88 -13.969,52.133 l 83.084,143.905 H 22.068 L 116.17,162.992 33.086,19.088 C 26.018,6.845 13.189,0 0,0"
+         style="fill:#91feff;fill-opacity:1;fill-rule:nonzero;stroke:#00dff2;stroke-width:12.1629"
+         transform="matrix(-0.10962334,0,0,0.10962334,235.43981,268.70969)"
+         clip-path="url(#clipPath74)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:23.3333px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-1px;text-anchor:start;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+       x="34.739048"
+       y="-138.94562"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         x="34.739048"
+         y="-138.94562">魔像</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:23.3333px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-1px;text-anchor:start;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+       x="34.552372"
+       y="-22.61759"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         x="34.552372"
+         y="-22.61759">魔像</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:23.3333px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-1px;text-anchor:start;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+       x="34.720356"
+       y="84.899109"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         x="34.720356"
+         y="84.899109">魔法器官</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:23.3333px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-1px;text-anchor:start;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+       x="34.739048"
+       y="204.72009"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         x="34.739048"
+         y="204.72009">魔導器官</tspan></text>
+    <path
+       id="rect22"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999996;stroke-opacity:1"
+       d="m -52.289268,-114.79883 -29.876953,12.27735 29.876953,12.277339 v -7.857421 h 37.197266 v 7.857421 l 29.876953,-12.277339 -29.876953,-12.27735 v 7.85742 h -37.197266 z" />
+    <path
+       id="path22"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999996;stroke-opacity:1"
+       d="m -52.289268,1.2949219 -29.876953,12.2773441 29.876953,12.277343 v -7.857421 h 37.197266 v 7.857421 L 14.784951,13.572266 -15.092002,1.2949219 v 7.8574219 h -37.197266 z" />
+    <path
+       id="path23"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999996;stroke-opacity:1"
+       d="m -52.289268,108.99023 -29.876953,12.27735 29.876953,12.27734 v -7.85742 h 37.197266 v 7.85742 l 29.876953,-12.27734 -29.876953,-12.27735 v 7.85743 h -37.197266 z" />
+    <path
+       id="path24"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999996;stroke-opacity:1"
+       d="m -52.289268,228.81055 -29.876953,12.27734 29.876953,12.27734 v -7.85742 h 37.197266 v 7.85742 l 29.876953,-12.27734 -29.876953,-12.27734 v 7.85742 h -37.197266 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:24px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;text-anchor:start;white-space:pre;inline-size:0;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.7;stroke-linecap:round"
+       x="847.65308"
+       y="207.47993"
+       id="text27"
+       transform="translate(-1140.9042,-308.85879)"><tspan
+         id="tspan27"
+         x="847.65308"
+         y="207.47993"
+         style="line-height:24px;letter-spacing:0px">素粒子</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Dot)"
+       d="m -243.50941,-41.975919 35.66811,-50.11248 h -86.5077"
+       id="path27"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path28"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999996;stroke-opacity:1"
+       d="m 145.59967,-90.24477 v -7.85742 h 43.07422 v -8.83984 h -43.07423 v -7.85742 l -29.87695,12.27734 z" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1"
+       id="rect29"
+       width="8.8398399"
+       height="63.21463"
+       x="-153.68655"
+       y="125.45927"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999997;stroke-opacity:1"
+       id="rect30"
+       width="8.8398399"
+       height="63.214619"
+       x="-245.50781"
+       y="125.45927"
+       transform="rotate(-90)" />
+    <path
+       id="path37"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999996;stroke-opacity:1"
+       d="m 145.59967,115.44726 v -7.85742 h 72.76172 v -8.839839 h -72.76173 v -7.85742 l -29.87695,12.277339 z"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       id="rect39"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#a9ffff;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       d="m 179.83398,98.75 v 8.83984 h 8.83985 V 98.75 Z" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999998;stroke-opacity:1"
+       id="rect28"
+       width="8.8398399"
+       height="352.44983"
+       x="179.83405"
+       y="-106.94202" />
+    <path
+       id="path35"
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999996;stroke-opacity:1"
+       d="m 145.59967,25.849605 v -7.85742 h 43.07422 V 9.1523454 h -43.07423 v -7.85742 L 115.72271,13.572265 Z" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1"
+       id="rect36"
+       width="8.8398399"
+       height="65.089836"
+       x="-136.68655"
+       y="179.83405"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-opacity:1"
+       id="rect37"
+       width="8.8398399"
+       height="65.089844"
+       x="-222.50751"
+       y="179.83405"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1"
+       id="rect38"
+       width="8.8398399"
+       height="123.75751"
+       x="236.08405"
+       y="98.749992" />
+    <g
+       id="g42"
+       transform="translate(2.6430733,4.3331308)">
+      <rect
+         style="mix-blend-mode:normal;fill:#0e83ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.819492;stroke-opacity:1;filter:url(#filter35)"
+         id="rect40"
+         width="26.517509"
+         height="84.206856"
+         x="-82.541504"
+         y="142.50215"
+         transform="matrix(0,-1.2623496,1.1795809,0,28.2881,11.37774)"
+         ry="13.258755" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:23.3333px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-1px;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         x="210.33325"
+         y="105.91147"
+         id="text41"><tspan
+           sodipodi:role="line"
+           id="tspan41"
+           x="210.33325"
+           y="105.91147">精神魔法</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:23.3333px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:-1px;text-anchor:start;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
+         x="210.33325"
+         y="105.91147"
+         id="text39"><tspan
+           sodipodi:role="line"
+           id="tspan39"
+           x="210.33325"
+           y="105.91147">精神魔法</tspan></text>
+    </g>
+    <g
+       id="g41"
+       transform="translate(-150.0625,30.360475)">
+      <rect
+         style="mix-blend-mode:normal;fill:#0e83ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.97379;stroke-opacity:1;filter:url(#filter35)"
+         id="rect35"
+         width="26.517509"
+         height="84.206856"
+         x="-82.541504"
+         y="142.50215"
+         transform="matrix(0,-1.2623496,0.8353841,0,198.07875,-104.24726)"
+         ry="16.999554"
+         rx="13.258755" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:24px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;text-anchor:start;white-space:pre;inline-size:0;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="847.65308"
+         y="207.47993"
+         id="text35"
+         transform="translate(-513.8938,-217.19347)"><tspan
+           id="tspan35"
+           x="847.65308"
+           y="207.47993"
+           style="line-height:24px;letter-spacing:0px;fill:none;stroke:#ffffff;stroke-width:4;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1">魔法</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:24px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;text-anchor:start;white-space:pre;inline-size:0;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.7;stroke-linecap:round"
+         x="847.65308"
+         y="207.47993"
+         id="text31"
+         transform="translate(-513.8938,-217.19347)"><tspan
+           id="tspan31"
+           x="847.65308"
+           y="207.47993"
+           style="line-height:24px;letter-spacing:0px">魔法</tspan></text>
+    </g>
+    <g
+       id="g43"
+       transform="translate(-150.0625,-85.7339)">
+      <rect
+         style="mix-blend-mode:normal;fill:#0e83ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.97379;stroke-opacity:1;filter:url(#filter35)"
+         id="rect42"
+         width="26.517509"
+         height="84.206856"
+         x="-82.541504"
+         y="142.50215"
+         transform="matrix(0,-1.2623496,0.8353841,0,198.07875,-104.24726)"
+         ry="16.999554"
+         rx="13.258755" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:24px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;text-anchor:start;white-space:pre;inline-size:0;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="847.65308"
+         y="207.47993"
+         id="text42"
+         transform="translate(-513.8938,-217.19347)"><tspan
+           id="tspan42"
+           x="847.65308"
+           y="207.47993"
+           style="line-height:24px;letter-spacing:0px;fill:none;stroke:#ffffff;stroke-width:4;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1">魔法</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:24px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;text-anchor:start;white-space:pre;inline-size:0;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.7;stroke-linecap:round"
+         x="847.65308"
+         y="207.47993"
+         id="text43"
+         transform="translate(-513.8938,-217.19347)"><tspan
+           id="tspan43"
+           x="847.65308"
+           y="207.47993"
+           style="line-height:24px;letter-spacing:0px">魔法</tspan></text>
+    </g>
+  </g>
+</svg>
